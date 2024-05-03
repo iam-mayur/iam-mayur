@@ -19,7 +19,6 @@ I'm a fresher Node.js developer with a passion for expanding my skills in this d
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 💬 &nbsp; Ask me anything [here](https://github.com/MayurJagtap-Dev/MayurJagtap-Dev/issues)! I am happy to help.
 - 📫 &nbsp; Reach me out: mayurjagtap9112@gmail.com
-- My linkedin profile :
 </p>
 
 <br>
