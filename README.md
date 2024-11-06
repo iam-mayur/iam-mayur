@@ -2,24 +2,31 @@
 
 # Hey there 👋, I'm [Mayur!](https://github.com/iam-mayur/)
 
-### My Linkedin Profile 👉 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mayurjagtap-profile)
+### My Linkedin Profile 👉 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iam-mayur-jagtap)
 
-I'm a fresher Node.js developer with a passion for expanding my skills in this dynamic field. I thrive on collaboration and enjoy working with others to create efficient, scalable solutions. Proficient in core Node.js concepts, I'm well-versed in Javascript, Typescript and SQL. I'm committed to actively participating in the open-source community on GitHub, contributing to projects and staying updated with the latest trends and best practices.
+As a software developer with a passion for expanding my skills in this dynamic field, I thrive on collaboration and enjoy working with others to create efficient, scalable solutions. With proficiency in core Node.js concepts, I'm well-versed in Javascript, Typescript and SQL, and specialize in building high-performance, maintainable applications that meet both business and technical requirements. In addition, I have developed a strong foundation in DevOps practices, with a focus on automating workflows, optimizing CI/CD pipelines, and streamlining deployment processes to enhance overall system reliability and efficiency.
 
-</div>
+<img align="center" height="250" width="400" alt="" src="https://raw.githubusercontent.com/iam-mayur/iam-mayur/master/assets/coder.gif" />
 
 <p>
-<img align="right" height="225" width="350" alt="" src="https://raw.githubusercontent.com/iam-mayur/iam-mayur/master/assets/coder.gif" />
 
-### More About Myself:
+## More About Myself 🧑‍💻
 
-- 🛠 &nbsp; I’m currently working Kubernetes, Terraform, AWS, etc.
-- 🚀 &nbsp; Learning Scalable Api Design, System Design, etc.
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iam-mayur/iam-mayur/issues)! I am happy to help.
-- 📫 &nbsp; Reach me out: mayurjagtap9112@gmail.com
+🛠 &nbsp; I’m currently working on Kubernetes, Terraform, AWS, etc.
+
+🚀 &nbsp; Learning Scalable Api Design, System Design, etc.
+
+💻 &nbsp; I love exploring new technologies and building cool stuff.
+
+📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+
+💬 &nbsp; Ask me anything [here](https://github.com/iam-mayur/iam-mayur/issues)! I am happy to help.
+
+📫 &nbsp; Reach me out: mayur.jagtap.office@gmail.com
+
 </p>
+
+</div>
 
 <br>
 <h2 align="center">🔥 Languages , Frameworks & Tools 🔥</h2>
